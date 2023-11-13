@@ -1,7 +1,13 @@
 ### Hello World. I am Gustavo Moreira 👋 😊
 
+ 
+(---)
+Olá! Hello! 👋
+
+I am Gustavo, dev full-stack, 🎓 graduated in em applied in web development and currently studying at Makers academy.
 
 
+(---)
 <!--
 **gustavoperess/gustavoperess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
