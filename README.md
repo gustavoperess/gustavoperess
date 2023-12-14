@@ -10,3 +10,4 @@ Olá! Hello! 👋
 I am Gustavo, dev full-stack, 🎓 graduated in applied web development and currently studying at Makers academy.
 
 ---------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
