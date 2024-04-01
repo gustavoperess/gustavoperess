@@ -1,5 +1,6 @@
 ### Hello! 👋 I'm Gustavo Moreira,
 <hr>
+
 - I am a Full Stack Developer with a degree in Applied Web Development, and I recently completed a bootcamp at Makers Academy.
 - I am currently searching for Junior Software Developer roles.
 - I have been working on various personal projects, and below are some of the technologies I have been using most recently.
@@ -22,6 +23,7 @@
 
 
 👇 I welcome you to reach out to me through LinkedIn 
+<br>
 <br>
 <a href="https://www.linkedin.com/in/gustavo-moreira-25bb56144/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
