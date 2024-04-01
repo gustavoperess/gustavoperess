@@ -2,13 +2,16 @@
 
  dev full-stack, 🎓 graduated in applied web development who just finished a bootcamp at Makers academy.
 
+---
+
 
 <a href="https://www.linkedin.com/in/gustavo-moreira-25bb56144/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+---
 
 I am currently working on various personal projects, below are some of the the techs that I have been using the most lately 
-
+<hr>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
