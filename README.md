@@ -2,7 +2,7 @@
 <hr>
 - Full stack dev graduated in applied web development, who has recently finished a bootcamp at Makers academy.
 
----
+
 
 I am currently working on various personal projects, below are some of the the techs that I have been using the most lately 
 <hr>
