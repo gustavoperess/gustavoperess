@@ -5,8 +5,15 @@
 - I am currently searching for Junior Software Developer roles.
 - I’m currently learning about anything and everything around JavaScript and Python.
 - I have been working on various personal projects, and below are some of the technologies I have been using most recently.
+<hr>
+
+Check my latest projects 
+
+- [BLOOM](https://bloom-frontend-vryp.onrender.com/).
+- [VanShoppfy](https://vanshoppfy.onrender.com/).
 
 <hr>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
