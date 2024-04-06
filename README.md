@@ -7,7 +7,7 @@
 - I have been working on various personal projects, and below are some of the technologies I have been using most recently.
 <hr>
 
-Check my latest projects 
+Check out the deployed version of my latest projects below: 
 
 - [BLOOM](https://bloom-frontend-vryp.onrender.com/).
 - [VanShoppfy](https://vanshoppfy.onrender.com/).
