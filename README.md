@@ -20,7 +20,7 @@ Check out the deployed version of my latest projects below:
 
 <hr>
 
-SKills: 
+Skills: 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
