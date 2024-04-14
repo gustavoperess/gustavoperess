@@ -15,10 +15,12 @@ Learn more about me :
 
 Check out the deployed version of my latest projects below: 
 
-- [BLOOM](https://bloom-frontend-vryp.onrender.com/).
-- [VanShoppfy](https://vanshoppfy.onrender.com/).
+- [BLOOM](https://bloom-frontend-vryp.onrender.com/)
+- [VanShoppfy](https://vanshoppfy.onrender.com/)
 
 <hr>
+
+SKills: 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
