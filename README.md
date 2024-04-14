@@ -7,8 +7,10 @@
 - I have been working on various personal projects, and below are some of the technologies I have been using most recently.
 <hr>
 
-Check out my Website :
-- https://gustavomoreira.co.uk/
+Learn more about me :
+- [Website](https://gustavomoreira.co.uk)
+- [Linkedin](https://www.linkedin.com/in/gustavo-moreira-25bb56144)
+
 <hr>
 
 Check out the deployed version of my latest projects below: 
@@ -34,11 +36,6 @@ Check out the deployed version of my latest projects below:
 <br></br>
 
 
-👇 I welcome you to reach out to me through LinkedIn
-<br>
-<br>
-<a href="https://www.linkedin.com/in/gustavo-moreira-25bb56144/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+
 
 
