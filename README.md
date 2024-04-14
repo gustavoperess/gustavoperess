@@ -7,7 +7,8 @@
 - I have been working on various personal projects, and below are some of the technologies I have been using most recently.
 <hr>
 Check out my Website :
-https://gustavomoreira.co.uk/
+-  https://gustavomoreira.co.uk/
+<hr>
 
 Check out the deployed version of my latest projects below: 
 
