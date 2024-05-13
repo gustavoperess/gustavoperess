@@ -33,6 +33,7 @@ Skills:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="48" height="48"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="mongoose" alt="mongoose" width="48" height="48"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="48" height="48"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="docker" alt="docker" width="48" height="48"/>&nbsp;
 </div>
 <br></br>
 
