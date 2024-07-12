@@ -2,7 +2,7 @@
 <hr>
 
 - I am a Full Stack Developer with a degree in Applied Web Development, and I recently completed a bootcamp at Makers Academy.
-- I’m currently learning about anything and everything around C#.
+- I’m currently learning about anything and everything around python and DS.
 - I have been working on various personal projects, and below are some of the technologies I have been using most recently.
 <hr>
 
