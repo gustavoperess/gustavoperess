@@ -7,7 +7,7 @@
 
 <hr>
 
-<h3 align="left">Check my leetcode below 😊 </h3>
+Check my leetcode below 😊 :
 <p align="left">
 <a href="https://leetcode.com/gustavoperess/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" alt="gustavo-moreira" height="40" width="40" /></a>
 </p>
