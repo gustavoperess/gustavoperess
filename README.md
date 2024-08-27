@@ -4,6 +4,16 @@
 - I am a Full Stack Developer with a degree in Applied Web Development, and I recently completed a bootcamp at Makers Academy.
 - I’m currently learning about anything and everything around python and DS.
 - I have been working on various personal projects, and below are some of the technologies I have been using most recently.
+
+<hr>
+
+<h3 align="left">Check my leetcode below 😊 </h3>
+<p align="left">
+<a href="https://leetcode.com/gustavoperess/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" alt="gustavo-moreira" height="40" width="40" /></a>
+</p>
+
+
+
 <hr>
 
 Learn more about me :
