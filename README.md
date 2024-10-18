@@ -23,8 +23,8 @@ Learn more about me :
 
 Check out the deployed version of my latest projects below: 
 
-- [BLOOM](https://bloom-frontend-vryp.onrender.com/)
-- [VanShoppfy](https://vanshoppfy.onrender.com/)
+- [BLOOM](https://ambitious-dune-0054d0d1e.5.azurestaticapps.net/)
+- [VanShoppfy](https://mango-forest-09f2f4f03.5.azurestaticapps.net/shop)
 
 <hr>
 
