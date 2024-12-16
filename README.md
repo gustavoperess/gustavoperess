@@ -1,9 +1,14 @@
 ### Hello! 👋 I'm Gustavo Moreira,
 <hr>
-
-- I am a Full Stack Developer with a degree in Applied Web Development, and I recently completed a bootcamp at Makers Academy.
-- I have been working on various personal projects, and below are some of the technologies I have been using most recently.
-
+Software Engineer with 4 years of experience in the finance
+industry, specialising in C# and .NET Core. Skilled in building
+scalable, efficient backend systems, I apply C# for API
+development, data handling, and financial application logic. In
+addition to completing an intensive software development bootcamp,
+I am further improving my technical skills through a Computer
+Science degree. With additional proficiency in Typescript (React)
+and Python, I am eager to contribute to innovative tech projects
+and make a positive impact in a software development role.
 <hr>
 
 Check my leetcode below 😊 :
@@ -23,7 +28,7 @@ Learn more about me :
 
 Check out the deployed version of my latest projects below: 
 
-- [BLOOM](https://ambitious-dune-0054d0d1e.5.azurestaticapps.net/)
+- [InvenShopfy](https://invenshopfy.online)
 - [VanShoppfy](https://mango-forest-09f2f4f03.5.azurestaticapps.net/shop)
 
 <hr>
