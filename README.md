@@ -29,7 +29,7 @@ Learn more about me :
 Check out the deployed version of my latest projects below: 
 
 - [InvenShopfy](https://invenshopfy.online)
-- [VanShoppfy](https://mango-forest-09f2f4f03.5.azurestaticapps.net/shop)
+- [VanShoppfy](https://mango-forest-09f2f4f03.5.azurestaticapps.net)
 
 <hr>
 
