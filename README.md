@@ -1,14 +1,6 @@
 ### Hello! 👋 I'm Gustavo Moreira,
 <hr>
-Software Engineer with 4 years of experience in the finance
-industry, specialising in C# and .NET Core. Skilled in building
-scalable, efficient backend systems, I apply C# for API
-development, data handling, and financial application logic. In
-addition to completing an intensive software development bootcamp,
-I am further improving my technical skills through a Computer
-Science degree. With additional proficiency in Typescript (React)
-and Python, I am eager to contribute to innovative tech projects
-and make a positive impact in a software development role.
+With 4 years of experience in the finance industry, I am seeking a new opportunity as a Software Engineer specialising in C# and .NET Core. Skilled in building scalable, efficient backend systems, I have experience applying C# for API development, data handling, and financial application logic. Dedicated to continuous learning, I’ve completed an intensive software development bootcamp, and I am further improving my technical skills through a BSc Computer Science degree. With additional proficiency in TypeScript (React) and Python, I am eager to contribute to innovative tech projects and make a positive impact in a software development role.
 <hr>
 
 Check my leetcode below 😊 :
